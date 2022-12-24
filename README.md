@@ -3,6 +3,6 @@
 </div>
 
 
-<h1 style="color:Red;">WARNING: I am not responsible for any illigal activities, that this script is involved in</h1>
+<h1 style="color:Red;">WARNING: I am not responsible for any illigal activities, that this script is involved in, thank you</h1>
 
 This is my OSINT script that I was inspired by discover to make. It has a multitude of features such as person & username search. Creating malicious paylosds with metasploit and starting a listner.
